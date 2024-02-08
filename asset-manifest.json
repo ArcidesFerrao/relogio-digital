@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/relogio-digital/static/css/main.9c497922.css",
+    "main.js": "/relogio-digital/static/js/main.b97714f0.js",
+    "static/js/592.6d1bc4c3.chunk.js": "/relogio-digital/static/js/592.6d1bc4c3.chunk.js",
+    "static/media/cool-background.png": "/relogio-digital/static/media/cool-background.81e47dd316456a59bfa2.png",
+    "index.html": "/relogio-digital/index.html",
+    "main.9c497922.css.map": "/relogio-digital/static/css/main.9c497922.css.map",
+    "main.b97714f0.js.map": "/relogio-digital/static/js/main.b97714f0.js.map",
+    "592.6d1bc4c3.chunk.js.map": "/relogio-digital/static/js/592.6d1bc4c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c497922.css",
+    "static/js/main.b97714f0.js"
+  ]
+}
